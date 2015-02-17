@@ -1,0 +1,4 @@
+*.py[cod]
+
+# Virtual environment
+venv
